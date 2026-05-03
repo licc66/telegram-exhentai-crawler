@@ -142,7 +142,3 @@ python search_exhentai5star_from_txt_html.py --interactive
 ```powershell
 python search_exhentai5star_from_txt_html.py "#tag1" --export-html --export-limit 5000
 ```
-
-## 许可证
-
-当前仓库尚未声明开源许可证。发布到公开 GitHub 仓库前，请根据你的分享意图选择合适的许可证，或保持默认的“保留所有权利”状态。
