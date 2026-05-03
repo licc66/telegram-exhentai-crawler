@@ -1,4 +1,4 @@
-# Telegram ExHentai 5 Star Crawler
+# Telegram ExHentai 5 Star Crawler（本子爬虫）
 
 一个用于整理 Telegram 频道 `@exhentai5star` 消息的本地辅助项目。项目包含两个脚本：
 
