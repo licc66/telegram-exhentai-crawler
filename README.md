@@ -109,20 +109,6 @@ python search_exhentai5star_from_txt_html.py --interactive
 }
 ```
 
-## 不应提交到 GitHub 的文件
-
-以下文件或目录会由脚本运行生成，可能包含账号登录态、浏览记录、个人偏好或抓取数据，已经在 `.gitignore` 中排除：
-
-- `pw_telegram_profile/`
-- `exhentai5star_records.jsonl`
-- `search_results.html`
-- `*.jsonl`
-- `*.html`
-- `.venv/`
-- `__pycache__/`
-
-如果需要分享示例数据，建议手动脱敏后另存为 `examples/` 下的小样本文件。
-
 ## 项目结构
 
 ```text
